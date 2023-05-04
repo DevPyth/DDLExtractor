@@ -27,13 +27,13 @@
             <version>21.1.0.0</version>
             <type>pom</type>
         </dependency>
+        <!--xxxx-->
 
-
-    </dependencies>
-    <build>
-        <plugins>
-            <plugin>
-                <!-- Build an executable JAR -->
+         </dependencies>
+         <build>
+             <plugins>
+                 <plugin>
+                     <!-- Build an executable JAR -->
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.3.0</version>
